@@ -4,7 +4,10 @@ import { Progress } from "reactstrap";
 class Skills extends Component {
   render() {
     return (
-      <div className="condiv skills">
+      <div className="condiv">
+        <div className="skills">
+
+        </div>
         <h1 className="subtopic" >My Skills</h1>
 
         <h5 className="bulletbox">Front-end</h5>
